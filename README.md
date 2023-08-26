@@ -2,4 +2,4 @@
 
 
 
-[Project01: Deploying Nodejs App](https://github.com/saeedalig/todo-nodejs-app.git){:target="_blank"}
+[Project01: Deploying Nodejs App](https://github.com/saeedalig/todo-nodejs-app.git) {:target="_blank"}
