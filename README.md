@@ -2,6 +2,6 @@
 
 
 
-[Project01: Deploying Nodejs App](https://github.com/saeedalig/todo-nodejs-app.git){target="_blank"}
+- [Project01: Deploying Nodejs App](https://github.com/saeedalig/todo-nodejs-app.git){target="_blank"}
 
-- [Project 1: Awesome Project](https://github.com/yourusername/project1){:target="_blank"}
+
